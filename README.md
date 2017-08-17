@@ -1,2 +1,2 @@
 # collaborate
-Learning how to collaborate on github
+Jon is making update.
