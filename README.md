@@ -1,2 +1,2 @@
 # collaborate
-Jon is making update.
+Jasmine is the best partner.
