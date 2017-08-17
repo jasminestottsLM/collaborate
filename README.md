@@ -1,2 +1,3 @@
 # collaborate
-Learning how to collaborate on github
+Practicing collaboration on github by changing the README file
+
