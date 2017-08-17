@@ -1,3 +1,5 @@
 # collaborate
-Practicing collaboration on github by changing the README file
+Practicing collaboration with Jon P on github by changing the README file
 
+
+more changes 
